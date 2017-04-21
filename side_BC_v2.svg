@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="side_AD_v2.svg"
+   sodipodi:docname="side_BC_v2.svg"
    inkscape:export-filename="/home/chihiro/ownCloud/Images/oznamko_lobomir/side_AD_v2.svg.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
@@ -105,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="776.95959"
-     inkscape:cy="190.42109"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="639.6653"
+     inkscape:cy="148.90504"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer8"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -134,20 +134,14 @@
   <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="backgrounds">
+     inkscape:label="backgrounds"
+     style="display:inline">
     <path
-       transform="matrix(0.96224447,0.27218667,-0.27218667,0.96224447,0,0)"
-       style="opacity:1;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -7.3783407,-160.3592 1284.1124,-51.837097 l -11.4789,156.304687 -1326.116918,0 z"
-       id="rect4180"
+       style="opacity:1;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -35.355339,224.56497 c 313.232319,162.62881 603.663529,64.91421 777.544479,45.07226 154.48868,-17.62905 320.11556,54.93284 497.26796,54.93284 l -112.1269,86.87312 -1162.685539,0 z"
+       id="rect4207"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 218.75705,-87.513306 551.40756,63.62219 289.99999,218.571426 0.947,130.43073 z"
-       id="path4194"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cscccc" />
   </g>
   <g
      inkscape:label="stripes"
@@ -191,7 +185,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="silhouettes"
-     style="display:inline">
+     style="display:none">
     <g
        inkscape:transform-center-y="-43.938461"
        inkscape:transform-center-x="25.089055"
@@ -220,7 +214,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="hearts"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:nodetypes="czzczzc"
        inkscape:connector-curvature="0"
@@ -368,7 +362,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="texts">
+     inkscape:label="texts_ad"
+     style="display:none">
     <g
        id="g4770"
        transform="translate(2.8571428,5.7142857)">
@@ -489,6 +484,55 @@
          id="tspan4316"
          x="607.00031"
          y="153.83537">...aby měli dobrý rozjezd :)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="texts_bc">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="549.52301"
+       y="59.91011"
+       id="text4211"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4213"
+         x="549.52301"
+         y="59.91011">Marie Nováková</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="591.9494"
+       y="112.43805"
+       id="text4219"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4221"
+         x="591.9494"
+         y="112.43805">a Lubomír Šálek</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="687.91388"
+       y="170.01674"
+       id="text4223"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4225"
+         x="687.91388"
+         y="170.01674">dne &lt;date&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="775.79718"
+       y="215.4736"
+       id="text4227"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4229"
+         x="775.79718"
+         y="215.4736">na zámku &lt;place&gt;</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
