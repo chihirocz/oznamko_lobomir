@@ -105,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="525.60058"
-     inkscape:cy="236.05389"
+     inkscape:zoom="1.4"
+     inkscape:cx="648.52117"
+     inkscape:cy="282.95166"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
@@ -490,7 +490,7 @@
      id="layer8"
      inkscape:label="texts_bc">
     <g
-       transform="matrix(0.05827152,0.01350298,-0.01350298,0.05827152,161.47015,176.33836)"
+       transform="matrix(0.0660124,0.01529674,-0.01529674,0.0660124,157.85767,159.39596)"
        style="opacity:1;fill:#56992a;fill-opacity:1"
        inkscape:label="Layer 2"
        id="layer2-3">
@@ -502,7 +502,7 @@
     </g>
     <g
        id="g4327"
-       transform="matrix(0.06925742,0.00298751,-0.00298751,0.06925742,366.75437,166.65308)"
+       transform="matrix(0.07562222,0.00326206,-0.00326206,0.07562222,346.03655,154.04966)"
        style="fill:#56992a;fill-opacity:1">
       <g
          transform="translate(122.73438,125.49414)"
@@ -512,13 +512,13 @@
         <image
            sodipodi:absref="/home/chihiro/ownCloud/Images/oznamko_lobomir/assets/IMG_20170420_203135.jpg"
            xlink:href="assets/IMG_20170420_203135.jpg"
-           style="fill:#56992a;fill-opacity:1"
-           width="3240"
-           height="2430"
-           preserveAspectRatio="none"
-           id="image4988"
+           y="-248.35208"
            x="-857.14288"
-           y="-248.35208" />
+           id="image4988"
+           preserveAspectRatio="none"
+           height="2430"
+           width="3240"
+           style="fill:#56992a;fill-opacity:1" />
       </g>
       <g
          transform="translate(122.73438,125.49414)"
@@ -538,59 +538,66 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="hidden text">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="549.52301"
-       y="59.91011"
-       id="text4211"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4213"
+    <g
+       id="g4228"
+       transform="translate(0,1.7772408)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4211"
+         y="59.91011"
          x="549.52301"
-         y="59.91011">Marie Nováková</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="591.9494"
-       y="112.43805"
-       id="text4219"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4221"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="59.91011"
+           x="549.52301"
+           id="tspan4213"
+           sodipodi:role="line"
+           dx="0 -1.4285715 0 0 0 0 0 0 1.4285715 -1.4285713 0 -0.71428573">Marie Nováková</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4219"
+         y="112.43805"
          x="591.9494"
-         y="112.43805">a Lubomír Šálek</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="112.43805"
+           x="591.9494"
+           id="tspan4221"
+           sodipodi:role="line"
+           dx="0 0 0 -2.1428571 0 0 0 0 0 0 0 -2.8571427">a Lubomír Šálek</tspan></text>
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="687.91388"
-       y="170.01674"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:-6px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="550.00031"
+       y="202.34163"
        id="text4223"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4225"
-         x="687.91388"
-         y="170.01674">dne &lt;date&gt;</tspan></text>
+         x="550.00031"
+         y="202.34163">dne 15. července 2017 ve 13 hodin</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="775.79718"
-       y="215.4736"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.5px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:-6px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="634.45062"
+       y="240.13568"
        id="text4227"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4229"
-         x="775.79718"
-         y="215.4736">na zámku &lt;place&gt;</tspan></text>
+         x="634.45062"
+         y="240.13568">v kostele sv. Bartoloměje v Krumvíři</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="885.61639"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="887.04498"
        y="57.773407"
        id="text4783"
        sodipodi:linespacing="125%"><tspan
+         dx="0 0 0 0 -1.4285715"
          sodipodi:role="line"
-         x="885.61639"
+         x="887.04498"
          y="57.773407"
          id="tspan4787">se společně</tspan></text>
     <text
@@ -598,7 +605,7 @@
        id="text4793"
        y="105.53158"
        x="960.06952"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:akaDora;-inkscape-font-specification:akaDora;letter-spacing:0px;word-spacing:0px;fill:#56992a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="105.53158"
          x="960.06952"
