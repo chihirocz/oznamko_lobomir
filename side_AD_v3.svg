@@ -71,6 +71,10 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <color-profile
+       name="Compatible-with-Adobe-RGB--1998-"
+       xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
+       id="color-profile5410" />
     <linearGradient
        id="linearGradient4141"
        inkscape:collect="always">
